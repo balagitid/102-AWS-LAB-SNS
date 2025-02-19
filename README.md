@@ -5,6 +5,7 @@
 ### Install dependencies:
 
 ```
+vi main.go
 go mod init sns-demo
 go get github.com/aws/aws-sdk-go
 go get github.com/joho/godotenv
